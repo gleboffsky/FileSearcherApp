@@ -1,0 +1,3 @@
+C:/Users/betterty/source/repos/DrWeb/DrWeb/build/CMakeFiles/FileSearcherApp.dir
+C:/Users/betterty/source/repos/DrWeb/DrWeb/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/betterty/source/repos/DrWeb/DrWeb/build/CMakeFiles/ZERO_CHECK.dir

@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\betterty\source\repos\DrWeb\DrWeb\build\FileSearcherApp_autogen\mocs_compilation_Debug.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\betterty\source\repos\DrWeb\DrWeb\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\betterty\source\repos\DrWeb\DrWeb\mainwindow.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\betterty\source\repos\DrWeb\DrWeb\filesearcher.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\betterty\source\repos\DrWeb\DrWeb\build\FileSearcherApp_autogen\mocs_compilation_Release.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\betterty\source\repos\DrWeb\DrWeb\build\FileSearcherApp_autogen\mocs_compilation_MinSizeRel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\betterty\source\repos\DrWeb\DrWeb\build\FileSearcherApp_autogen\mocs_compilation_RelWithDebInfo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\betterty\source\repos\DrWeb\DrWeb\mainwindow.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\betterty\source\repos\DrWeb\DrWeb\filesearcher.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\betterty\source\repos\DrWeb\DrWeb\searchThread.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\betterty\source\repos\DrWeb\DrWeb\build\FileSearcherApp_autogen\include_Debug\ui_mainwindow.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\betterty\source\repos\DrWeb\DrWeb\build\FileSearcherApp_autogen\include_Release\ui_mainwindow.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\betterty\source\repos\DrWeb\DrWeb\build\FileSearcherApp_autogen\include_MinSizeRel\ui_mainwindow.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\betterty\source\repos\DrWeb\DrWeb\build\FileSearcherApp_autogen\include_RelWithDebInfo\ui_mainwindow.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\betterty\source\repos\DrWeb\DrWeb\build\CMakeFiles\ac8e41b810689fbf809a6aec90ae1f92\autouic_(CONFIG).stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\betterty\source\repos\DrWeb\DrWeb\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\betterty\source\repos\DrWeb\DrWeb\mainwindow.ui" />
+    <None Include="C:\Users\betterty\source\repos\DrWeb\DrWeb\build\FileSearcherApp_autogen\autouic_Debug.stamp" />
+    <None Include="C:\Users\betterty\source\repos\DrWeb\DrWeb\build\FileSearcherApp_autogen\autouic_Release.stamp" />
+    <None Include="C:\Users\betterty\source\repos\DrWeb\DrWeb\build\FileSearcherApp_autogen\autouic_MinSizeRel.stamp" />
+    <None Include="C:\Users\betterty\source\repos\DrWeb\DrWeb\build\FileSearcherApp_autogen\autouic_RelWithDebInfo.stamp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{521657FC-EBD1-3F6F-AA7D-87CA98030650}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{951DDDA8-587E-3CCA-AF7A-D18D9B203EBA}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{CCD9DCD3-A314-3151-8750-F672A91E9D37}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
